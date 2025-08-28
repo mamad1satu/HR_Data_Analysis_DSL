@@ -3,6 +3,8 @@ Analyse 2 Million Records of employees of a Multinational Company (MNC) with Pyt
 
 _**Project Video available on YouTube - https://youtu.be/fykrwQD3HR4**_
 
+_**Download Dataset - https://www.kaggle.com/datasets/rohitgrewal/hr-data-mnc/data**_
+
 _**Connect with me on LinkedIn - https://www.linkedin.com/in/rohit-grewal**_
 
 In this project, we have analysed the big dataset with Python.
